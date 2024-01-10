@@ -1,4 +1,7 @@
 # Integrare de rețele neurale în aplicații Android
+
+https://github.com/dragos0804/MobileNet-deployment-on-Android-studio-application?tab=readme-ov-file
+
 ## Exemplificare folosind MobileNet
 
 Rețeaua salvată sub format TFLite:
